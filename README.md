@@ -1,7 +1,7 @@
 # Blinkit-Analysis
 
 ## Tech Used
-SQL,PowerBi, Excel , dbdiagram,figma
+SQL,PowerBi, Excel , dbdiagram,figma, Canva
 
 ## Operations
 Import data using dump
