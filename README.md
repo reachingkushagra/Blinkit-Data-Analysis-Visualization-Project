@@ -10,6 +10,12 @@ write commands in sql for joining and fetching columns from multiple tables and 
 also created dax for enabling or disabling
 one dax for picking system date
 also constructed rNK TABLE FOR TOP N
+used page navigators
+used bookmarks
+kpis
+barcharts
+line charts
+piecharts
 
 
 
