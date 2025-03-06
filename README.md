@@ -11,7 +11,7 @@ also created dax for enabling or disabling
 one dax for picking system date
 also constructed rNK TABLE FOR TOP N
 used page navigators
-used bookmarks
+used bookmarks for applying & clearing Filters 
 kpis
 barcharts
 line charts
